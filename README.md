@@ -4,5 +4,5 @@ Here are the possible skills that will be used:
 * Python and Selenium (web scraping)
 * NumPy, Pandas, Matplotlib, and Seaborn (data analytics)
 * Bootstrap, React, and Astro (client-side)
-* Flask, MySQL,  (server-side processing)
+* Flask, MySQL (server-side processing)
 * LaTeX for an illustrative final report
