@@ -37,5 +37,14 @@ This phase is geared towards providing the best cars given a list of car brands 
 ### Skills Inherited
 * HTTP (from Computer Networking)
 
-# Phase 2
-This phase is dedicated towards choosing the best cars given a prompt from the user. MORE TO SAY.
+# Phase 2 (Personalized Phase)
+This phase is dedicated towards choosing the best cars given a prompt from the user.
+
+**Some example prompts:**
+1. The top 10 most cost effective cars
+2. Five of the best electric cars overall
+3. Cars with identical stats to the Acura NSX 2016
+
+## Natural Language Processing and Deep Learning
+* HuggingFace
+* PyTorch
