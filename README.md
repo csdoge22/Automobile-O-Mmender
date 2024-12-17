@@ -23,7 +23,7 @@ This phase is geared towards providing the best cars given a list of car brands 
 
 ### Frontend / Client-Side
 * Figma (for emphasizing UI/UX)
-* CSS and Bootstrap (Styling and Formatting elements)
+* CSS and Bootstrap (for styling and formatting HTML)
 * React (front-end JS framework for adding a flexible number of cars per list)
 
 ### Cloud Computing
