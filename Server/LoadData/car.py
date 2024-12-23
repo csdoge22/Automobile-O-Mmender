@@ -1,15 +1,17 @@
 class CarModelGeneration:
-    def __init__(self,is_electric,fuel_capacity,tire_size,cost):
-        self.is_electric = is_electric
+    def __init__(self,fuel_capacity,tire_size,max_tire_pressure):
         self.fuel_capacity = fuel_capacity
         self.tire_size = tire_size
-        self.cost = cost
+        self.max_tire_pressure = max_tire_pressure
 
 class CarModel:
     def __init__(self, model: str, generations: list[CarModelGeneration]):
         self.model = model
         self.generations = generations
+        pass
     
+    def get_num_generations(self):
+        return len(self.generations)
 
 class CarFamily:
     def __init__(self,brand: str,models: list[CarModel]):
